@@ -21,5 +21,4 @@ sssd:x:996:993:User for sssd:/:/sbin/nologin
 chrony:x:995:992::/var/lib/chrony:/sbin/nologin
 sshd:x:74:74:Privilege-separated SSH:/var/empty/sshd:/sbin/nologin
 ec2-user:x:1000:1000:Cloud User:/home/ec2-user:/bin/bash
-dominion:x:1001:1003::/home/dominion:/bin/bash
-success:x:1002:1004::/home/success:/bin/bash
+dominion:x:1001:1003::/home/dominion:/bin/bh
